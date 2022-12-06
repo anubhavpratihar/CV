@@ -1,0 +1,38 @@
+ body {
+            background-color: #D6E4E5;
+        }
+        h1 {
+            color: #497676;
+        }
+        h3 {
+            color: #819e9e;
+        }
+        img {
+            width: 70%;
+        }
+        img:hover {
+            background-color: rgb(57, 36, 109);
+        }
+
+        
+    
+        #name {
+            color: rgb(72, 7, 7);
+        }
+        
+        .a {
+            color: #497676;
+        }
+        
+        
+
+
+        hr {
+            border-style: none;
+            border-top-style: dotted;
+            border-color: grey;
+            border-width: 5px;
+            width: 5%;
+
+
+        }
